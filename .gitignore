@@ -1,0 +1,5 @@
+### Ignore the log file, it's huge
+TempLog.txt
+
+### Also ignore images generated here
+*.png
